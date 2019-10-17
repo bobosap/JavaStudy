@@ -5,8 +5,6 @@ import com.github.cliftonlabs.json_simple.JsonObject;
 import com.github.cliftonlabs.json_simple.Jsoner;
 import org.dozer.DozerBeanMapper;
 import org.dozer.Mapper;
-
-
 import java.io.FileReader;
 import java.io.IOException;
 
